@@ -1,5 +1,5 @@
 ﻿##############################################################################
-#  Script: Get-LocalMembership-Domain.ps1
+#  Script: Force-Reset-LAPS.ps1
 #    Date: 2020.09.18
 # Version: 3.5
 #  Author: Blake Regan @blake_r38
