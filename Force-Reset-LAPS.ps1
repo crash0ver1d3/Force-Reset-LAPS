@@ -7,6 +7,8 @@
 #   Legal: Script provided "AS IS" without warranties or guarantees of any
 #          kind.  USE AT YOUR OWN RISK.  Public domain, no rights reserved.
 ##############################################################################
+<#This script requires the permission "Set-AdmPwdResetPasswordPermission" for LAPS values
+refer to LAPS_delegation_annotated.PNG in repo for refernce#>
 
 
 Import-Module ActiveDirectory
