@@ -2,7 +2,7 @@
 #  Script: Force-Reset-LAPS.ps1
 #    Date: 2020.09.18
 # Version: 3.5
-#  Author: Blake Regan @blake_r38
+#  Author: Blake Regan @crash0ver1d3
 # Purpose: Force reset LAPS password to sync LAPS clients, or change values in a hurry.
 #   Legal: Script provided "AS IS" without warranties or guarantees of any
 #          kind.  USE AT YOUR OWN RISK.  Public domain, no rights reserved.
